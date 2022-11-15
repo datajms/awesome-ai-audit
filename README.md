@@ -9,7 +9,8 @@ AI Audit, generally speaking, is connected to multiple themes: AI Ethics, AI Reg
 This awesome AI Audit list focuses on resources that brings structure, content, recommendations, practical advices to help humans auditing AI systems.
 
 Definition of an AI Audit: it 
-varies from meaning an impact assessment of an AI system to restricting it to a compliance process (like financial audit) with certification and certified professionals (the [forHumanity](https://forhumanity.center/independent-audit-of-ai-systems) vision).
+varies from meaning an impact assessment of an AI system to restricting it to a compliance process (like financial audit) with certification and certified professionals (the [forHumanity](https://forhumanity.center/independent-audit-of-ai-systems) vision):
+- [forHumanity]() definition:
 
 ## Table of Contents
 
@@ -21,3 +22,4 @@ varies from meaning an impact assessment of an AI system to restricting it to a 
 - Relevant? https://algorithmwatch.org/en/ai-ethics-guidelines-global-inventory/
 - The EAI DataBase contains Audit AI companies https://www.eaidb.org/companies.html
 - This [UK Government document](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem-extended-version) presents different levels of assurance regarding AI.
+- [Who audits the auditors?](https://facctconference.org/static/pdfs_2022/facct22-126.pdf)
