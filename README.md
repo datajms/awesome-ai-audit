@@ -21,5 +21,7 @@ varies from meaning an impact assessment of an AI system to restricting it to a 
 - https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf
 - Relevant? https://algorithmwatch.org/en/ai-ethics-guidelines-global-inventory/
 - The EAI DataBase contains Audit AI companies https://www.eaidb.org/companies.html
-- This [UK Government document](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem-extended-version) presents different levels of assurance regarding AI.
-- [Who audits the auditors?](https://facctconference.org/static/pdfs_2022/facct22-126.pdf)
+- This [UK Government document](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem-extended-version) (CDEI) presents different levels of assurance regarding AI.
+- [Who audits the auditors?](https://facctconference.org/static/pdfs_2022/facct22-126.pdf), June 2022
+- [Auditing algorithms: the existing landscape,
+role of regulators and future outlook](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1071554/DRCF_Algorithmic_audit.pdf), part 2 "The role for audit in algorithmic governance", 2022, by DRCF
