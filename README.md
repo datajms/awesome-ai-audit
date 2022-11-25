@@ -1,4 +1,4 @@
-# Awesome AI Audit
+# Awesome AI Audit [WIP]
 A curated, but likely incomplete, list of serious and practical resources about Audits of Artificial Intelligence (AI) systems.
 
 If you want to contribute to this list (*and please do!*) read over the [contribution guidelines](contributing.md), send a pull request, or contact [me](mailto:jean.matthieu.schertzer@gmail.com).
